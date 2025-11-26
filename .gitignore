@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Output files
+output/
+*.xlsx
+
+# Logs
+logs/
+
+# IDE settings
+.vscode/
+
+# Streamlit cache
+.streamlit/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Sensitive files
+config/settings.py
