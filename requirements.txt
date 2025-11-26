@@ -1,0 +1,6 @@
+google-search-results
+pandas
+openpyxl
+requests
+beautifulsoup4
+serpapi
