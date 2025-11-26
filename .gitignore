@@ -10,8 +10,6 @@ env/
 output/
 *.xlsx
 
-# Logs
-logs/
 
 # IDE settings
 .vscode/
@@ -23,5 +21,3 @@ logs/
 .DS_Store
 Thumbs.db
 
-# Sensitive files
-config/settings.py
